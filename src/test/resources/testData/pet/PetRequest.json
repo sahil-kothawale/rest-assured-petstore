@@ -1,0 +1,18 @@
+{
+  "id": 24,
+  "category": {
+    "id": 2,
+    "name": "Dog"
+  },
+  "name": "Scooby",
+  "photoUrls": [
+    "photourl/abc/pic.png"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "ABC123"
+    }
+  ],
+  "status": "available"
+}
