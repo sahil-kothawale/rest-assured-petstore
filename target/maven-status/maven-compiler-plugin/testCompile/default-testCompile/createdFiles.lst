@@ -1,9 +1,0 @@
-utilities\TestContext.class
-runners\TestRunner.class
-models\request\PetRequest.class
-utilities\JsonUtils.class
-dataFactories\PetFactory.class
-utilities\ConfigReader.class
-stepDefinitions\PetStepDefinitions.class
-models\request\Tag.class
-models\request\Category.class

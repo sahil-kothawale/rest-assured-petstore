@@ -10,7 +10,7 @@ Scenario Outline: GET - Find a Pet by Id
 	And response should contain the same pet ID <id>
 Examples:
 | id |
-| 13 |
+| 24 |
 
 @APItest @Pets @GET
 Scenario Outline: GET - Find Pets by Status

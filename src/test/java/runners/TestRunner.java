@@ -12,7 +12,8 @@ import io.cucumber.junit.CucumberOptions;
 	tags = "@APItest",
 	plugin = {
 			"pretty", 
-			"html:target/cucumber-report.html"
+			"html:target/cucumber-report.html",
+			"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 	}
 	//dryRun = false
 )
